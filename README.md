@@ -12,6 +12,10 @@ optimization, etc. They are written as Python Notebooks so they can easily be
 modified and run again.
 
 
+## Quick Start
+
+This research on stock valuation has been made into a web-site that everyone can easily use. Portfolio optimization will be available later. [Give it a try!](https://SimSim.Run?refcode=github-financeops)
+
 ## Python Package
 
 The [InvestOps](https://github.com/Hvass-Labs/InvestOps) Python package
